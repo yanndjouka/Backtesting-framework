@@ -27,3 +27,5 @@ The **Backtesting Framework** is a Python-based project designed to simulate and
    ```bash
    git clone https://github.com/username/backtesting-framework.git
    cd backtesting-framework
+
+NOT FINISHED
